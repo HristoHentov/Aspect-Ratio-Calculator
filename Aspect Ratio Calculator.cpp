@@ -16,6 +16,7 @@ int main ()
 
     {
 
+		cout << "Test";
         cout << "Please enter the current width: ";
         cin >> width;
 
